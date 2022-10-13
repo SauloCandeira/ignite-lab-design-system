@@ -1,4 +1,5 @@
 Iniciar o Projeto React: 
+- npm install 
 - npm run dev
 
 
